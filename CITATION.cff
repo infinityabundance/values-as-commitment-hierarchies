@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite the published paper."
+title: "Meaning as Commitment Context"
+version: "1.0"
+authors:
+  - family-names: de Beer
+    given-names: Riaan
+doi: "10.5281/zenodo.18625612"
+date-released: 2026
+repository-code: "https://github.com/infinityabundance/meaning-as-commitment-context"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: de Beer
+      given-names: Riaan
+  year: 2026
+  title: "Meaning as Commitment Context"
+  version: "v1.0"
+  journal: "Zenodo"
+  doi: "10.5281/zenodo.18625612"
